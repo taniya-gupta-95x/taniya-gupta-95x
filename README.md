@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Taniya Gupta</h1>
-<h3 align="center">BCA Student @Bareilly College | Full Stack Developer | Data Analyst | SIH Finalist</h3>
+<h3 align="center">BCA Student @Bareilly College | Frontend Developer | Data Analyst | SIH Finalist</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🎓 BCA Student  
-- 💻 Full Stack Web Developer  
-- 📊 Data Analytics Learner  
-- 🤖 AI/ML Enthusiast  
+- 💻 Frontend Web Developer  
+- 📊 Data Analytics
+- 🤖 AI/ML Enthusiast
+- 📊 Data Science Learner
 - 🏆 SIH 2025 Finalist  
 
 ---
@@ -54,9 +55,6 @@
 ### 🏆 Achievements  
 - 🥇 SIH 2025 Grand Finale – Selected  
 - 🧠 Created AI Projects  
-- 📈 Completed 10+ Mini Projects  
+- 📈 Completed 10+ Projects  
 
----
 
-### ✨ Fun Quote  
-> “Code, Learn, Build, Repeat 🚀”
