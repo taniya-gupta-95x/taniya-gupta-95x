@@ -36,14 +36,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 🏅 Certificates
+
 <p align="center">
-<a href="https://github.com/your_username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/your_username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" />
-</a>
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png" width="400" />
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png" width="400" />
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png" width="400" />
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png" width="400" />
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png" width="400" />
+  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate7.png" width="400" />
+</p>
+
+<p align="center">
+  <img src=""C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\SQL Badge.png"" width="400" />
 </p>
 
 ---
