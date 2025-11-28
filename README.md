@@ -39,12 +39,12 @@
 ## 🏅 Certificates
 
 <p align="center">
-  <a href="Certificate1.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png" width="400" />
-  <a href="certificate2.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png" width="400" />
-  <a href="certificate3.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png" width="400" />
-  <a href="certificate4.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png" width="400" />
-  <a href="certificate5.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png" width="400" />
-  <a href="certificate6.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate6.png" width="400" />
+  <a href="Certificate1.png"><img src="Certificate1.png" width="400" />
+  <a href="certificate2.png"><img src="certificate2.png" width="400" />
+  <a href="certificate3.png"><img src="certificate3.png" width="400" />
+  <a href="certificate4.png"><img src="certificate4.png" width="400" />
+  <a href="certificate5.png"><img src="certificate5.png" width="400" />
+  <a href="certificate6.png"><img src="certificate6.png" width="400" />
 </p>
 
 ---
