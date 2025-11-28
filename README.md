@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Taniya Gupta</h1>
+<h3 align="center">BCA Student | Full Stack Developer | Data Analyst | SIH Finalist</h3>
 
-<!--
-**taniya-gupta-95x/taniya-gupta-95x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 BCA Student  
+- 💻 Full Stack Web Developer  
+- 📊 Data Analytics Learner  
+- 🤖 AI/ML Enthusiast  
+- 🏆 SIH 2025 Finalist  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Social Links  
+<p align="left">
+<a href="https://github.com/your_username">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your_linkedin_id/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+### 🔧 Technologies & Tools  
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+<a href="https://github.com/your_username">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/your_username">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" />
+</a>
+</p>
+
+---
+
+### 🏆 Achievements  
+- 🥇 SIH 2025 Grand Finale – Selected  
+- 🧠 Created AI Projects  
+- 📈 Completed 10+ Mini Projects  
+
+---
+
+### ✨ Fun Quote  
+> “Code, Learn, Build, Repeat 🚀”
