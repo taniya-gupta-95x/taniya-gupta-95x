@@ -14,10 +14,10 @@
 
 ### 🌐 Social Links  
 <p align="left">
-<a href="https://github.com/your_username">
+<a href="https://github.com/taniya-gupta-95x">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your_linkedin_id/">
+<a href="http://www.linkedin.com/in/taniya-gupta-b10275304">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
