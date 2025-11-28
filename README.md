@@ -39,12 +39,12 @@
 ## 🏅 Certificates
 
 <p align="center">
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png"><img src="certificate1.png" width="400" />
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png"><img src="certificate1.png" width="400" />
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png"><img src="certificate1.png" width="400" />
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png"><img src="certificate1.png" width="400" />
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png"><img src="certificate1.png" width="400" />
-  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate7.png"><img src="certificate1.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate7.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate6.png" width="400" />
 </p>
 
 <p align="center">
