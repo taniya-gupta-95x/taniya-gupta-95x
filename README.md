@@ -39,16 +39,16 @@
 ## 🏅 Certificates
 
 <p align="center">
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png" width="400" />
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png" width="400" />
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png" width="400" />
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png" width="400" />
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png" width="400" />
-  <img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate7.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\Certificate1.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate2.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate3.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate4.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate5.png" width="400" />
+  <a href="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate7.png" width="400" />
 </p>
 
 <p align="center">
-  <img src=""C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\SQL Badge.png"" width="400" />
+  <a href=""C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\SQL Badge.png"" width="400" />
 </p>
 
 ---
