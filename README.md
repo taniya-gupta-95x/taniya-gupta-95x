@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taniya Gupta</h1>
-<h3 align="center">BCA Student @Bareilly College | Frontend Developer | Data Analyst | SIH Finalist</h3>
+<h3 align="center">BCA Student @Bareilly College | Frontend Developer | Data Analyst | SIH Finalist 2025</h3>
 
 ---
 
