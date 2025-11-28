@@ -47,10 +47,6 @@
   <a href="certificate6.png"><img src="C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\certificate6.png" width="400" />
 </p>
 
-<p align="center">
-  <a href=""C:\Users\Taniya Gupta\OneDrive\Pictures\Screenshots\SQL Badge.png"" width="400" />
-</p>
-
 ---
 
 ### 🏆 Achievements  
