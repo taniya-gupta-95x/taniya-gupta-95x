@@ -42,12 +42,12 @@
 <p align="center">
   <a href="Certificate1.png"><img src="Certificate1.png" width="200" />
   <a href="certificate2.png"><img src="certificate2.png" width="200" />
-  <a href="certificate3.png"><img src="certificate3.png" width="200" />
+  <a href="certificate3.png"><img src="certificate3.png" width="170" />
   <a href="certificate4.png"><img src="certificate4.png" width="200" />
-  <a href="certificate5.png"><img src="certificate5.png" width="200" />
+  <a href="certificate5.png"><img src="certificate5.png" width="240" />
   <a href="certificate6.png"><img src="certificate6.png" width="200" />
   <a href="certificate7.png"><img src="certificate7.png" width="200" />
-  <a href="SQLBadge 1"><img src="SQLBadge1.png" width="200" />
+  <a href="SQLBadge 1"><img src="SQLBadge 1.png" width="150" />
 </p>
 
 ---
