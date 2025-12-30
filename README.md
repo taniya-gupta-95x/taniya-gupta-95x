@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - 🎓 BCA Student  
-- 💻 Frontend Web Developer  
+- 💻 Frontend Web Developer
 - 📊 Data Analytics
 - 🤖 AI/ML Enthusiast
 - 📊 Data Science Learner
