@@ -47,6 +47,8 @@
   <a href="certificate5.png"><img src="certificate5.png" width="240" />
   <a href="certificate6.png"><img src="certificate6.png" width="200" />
   <a href="certificate7.png"><img src="certificate7.png" width="200" />
+  <a href="certificate8.png"><img src="certificate8.png" width="200" />
+  <a href="certificate9.png"><img src="certificate9.png" width="200" />
   <a href="SQLBadge 1"><img src="SQLBadge 1.png" width="150" />
 </p>
 
