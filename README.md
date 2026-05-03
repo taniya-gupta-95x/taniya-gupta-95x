@@ -81,6 +81,7 @@
   <a href="certificate4.png"><img src="certificate4.png" width="200" />
   <a href="certificate10.png"><img src="certificate10.png" width="200" />
   <a href="certificate6.png"><img src="certificate6.png" width="200" />
+  <a href="certificate12.png"><img src="certificate12.png" width="200" />
   <a href="certificate11.png"><img src="certificate11.png" width="200" />
   <a href="Certificate8.png"><img src="Certificate8.png" width="200" />
   <a href="certificate7.png"><img src="certificate7.png" width="200" />
