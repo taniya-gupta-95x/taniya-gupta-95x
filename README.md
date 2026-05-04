@@ -84,7 +84,6 @@
   <a href="certificate12.png"><img src="certificate12.png" width="200" />
   <a href="certificate11.png"><img src="certificate11.png" width="200" />
   <a href="Certificate8.png"><img src="Certificate8.png" width="200" />
-  <a href="certificate7.png"><img src="certificate7.png" width="200" />
   <a href="certificate5.png"><img src="certificate5.png" width="240" />
   <a href="certificate3.png"><img src="certificate3.png" width="170" />
   <a href="SQLBadge 1"><img src="SQLBadge 1.png" width="150" />
