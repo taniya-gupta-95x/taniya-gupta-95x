@@ -4,12 +4,13 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 BCA Student  
-- 💻 Frontend Web Developer
-- 📊 Data Analytics
-- 🤖 AI/ML Enthusiast
-- 📊 Data Science Learner
-- 🏆 SIH 2025 Finalist  
+-  BCA Graduate 
+-  Web Developer
+-  Data Analytics
+-  Tech Enthusiast
+-  AI/ML Learner
+-  SIH 2025 Finalist
+-  Google Student Ambassador'26
 
 ---
 
